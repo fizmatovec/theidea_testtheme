@@ -1,4 +1,4 @@
-# Opencart тема оформления для theidea
+# Prestashop тема оформления для theidea
 
 URL проекта: http://theidea.php-mysql-crm.ru/
 
